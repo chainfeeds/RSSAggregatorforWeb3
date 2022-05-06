@@ -1,7 +1,14 @@
 # RSS Aggregator for Web3 (or 🥩 RAW for short)
+
 Bootstrapping your personal Web3 info hub from more than 500 RSS Feeds.
 
-![](./img/Why RSS.png)
+![](./img/whyRSS.png)
+
+## What is RSS or Reader Services?
+
+Just like ERC-20 to Uniswap, but for information aggregating!
+
+![](./img/whatRSS.png)
 
 ## How to use 🥩 RAW? Just 4 steps!
 1. Download the the latest OPML (Outline Processor Markup Language) file from this repo.
