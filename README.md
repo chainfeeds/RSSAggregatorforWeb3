@@ -1,7 +1,7 @@
-# ⭐️ RSS Aggregator for Web3 (RAW) ⭐️
+# RSS Aggregator for Web3 (or 🥩 RAW for short)
 Bootstrapping your personal Web3 info hub from more than 500 RSS Feeds.
 
-## How to use RAW? Just 4 steps!
+## How to use 🥩 RAW? Just 4 steps!
 1. Download the the latest OPML (Outline Processor Markup Language) file from this repo.
 2. Choose your favorite RSS service or apps. (I strongly recommend [NetNewsWire](https://netnewswire.com) as a frest start because it's totally free and [open sourced](https://github.com/Ranchero-Software/NetNewsWire)!)
 3. Import this OPML to your apps/services.
@@ -14,7 +14,7 @@ Medium, Github, Substack, Mirror (by submirror), Ghost is natively support RSS.
 For other sites or sources, you can find many great tutorials from https://github.com/AboutRSS/ALL-about-RSS .
 
 ## Feeds breakdown
-You can find more than 500 RSS feeds in RAW:
+You can find more than 500 RSS feeds in 🥩 RAW:
 - Direct source from projects: 330 Feeds
     - Including product announcements/updates from L1/L2 Chains, Web3 DApps, Developer Tools.
 - GitHub updates: 122 Feeds
