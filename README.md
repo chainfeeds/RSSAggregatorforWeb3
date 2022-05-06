@@ -9,7 +9,8 @@ Bootstrapping your personal Web3 info hub from more than 500 RSS Feeds.
 
 ## How to add new feeds?
 
-Medium, Github, Substack, Mirror(by submirror), Ghost is natively support RSS.
+Medium, Github, Substack, Mirror (by submirror), Ghost is natively support RSS.
+
 For other sites or sources, you can find many great tutorials from https://github.com/AboutRSS/ALL-about-RSS .
 
 ## Feeds breakdown
