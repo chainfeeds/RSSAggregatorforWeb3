@@ -20,7 +20,7 @@ RSS is a standard for contents feeds. Any website supporting this standard can b
 
 ## How to find/add new feeds?
 
-Medium, Github, Substack, Mirror, Ghost is natively support RSS.
+Medium, Github, Substack, Mirror, Ghost are natively support RSS.
 
 For example,
 
@@ -30,7 +30,7 @@ For example,
 - Ghost: Appending "/rss" to link, e.g. https://fuel-labs.ghost.io/rss/
 - Medium: Adding "/feed" after medium.com, e.g. https://medium.com/feed/anomanetwork
 
-For other sites or sources, you can find many great tutorials from https://github.com/AboutRSS/ALL-about-RSS or https://github.com/DIYgod/RSSHub.
+For other sites or sources, you can find many great tutorials from [ALL About RSS](https://github.com/AboutRSS/ALL-about-RSS) or [RSSHub](https://github.com/DIYgod/RSSHub).
 
 ## How many feeds I can find in 🥩 RAW?
 
