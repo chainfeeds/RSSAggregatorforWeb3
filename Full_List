@@ -41,6 +41,8 @@
 	Bitcoin Core releases: https://bitcoin.org/en/rss/releases.rss
 	Bitfinex blog: http://blog.bitfinex.com/feed/
 	BitGo Blog - Medium: https://blog.bitgo.com/feed
+	BitMEX Blog: https://blog.bitmex.com/feed/
+	BitMEX Blog (Chinese): https://blog.bitmex.com/feed/?lang=zh_CN
 	Bitquery: https://bitquery.io/feed
 	Bitwise Asset Management - Medium: https://medium.com/feed/bitwise-asset-management
 	Blockchain.com: https://medium.com/feed/blockchain
@@ -67,6 +69,7 @@
 	Celestia Blog: https://blog.celestia.org/rss/
 	Centre blog - Medium: https://medium.com/feed/centre-blog
 	Centrifuge - Medium: https://medium.com/feed/centrifuge
+	ChainFeeds: http://mirror.xyz/chainfeeds.eth/feed/atom
 	Chainlink: https://blog.chain.link/rss/
 	ChainSafe - Medium: https://medium.com/feed/chainsafe-systems
 	ChainSecurity - Medium: https://medium.com/feed/chainsecurity
@@ -170,6 +173,8 @@
 	Jack Mallers on Medium: https://medium.com/feed/@JimmyMow
 	Jarvis Network - Medium: https://medium.com/feed/jarvis-network
 	Keep Network - Medium: https://blog.keep.network/feed
+	Keystone Wallet: https://blog.keyst.one/feed
+	Keystone Wallet (Chinese): https://mirror.xyz/keystonecn.eth/feed/atom
 	Klaytn - Medium: https://medium.com/feed/klaytn
 	Kraken Blog: https://blog.kraken.com/feed/
 	Krystal DeFi - Medium: https://medium.com/feed/krystaldefi
@@ -224,7 +229,6 @@
 	OpenNode Blog: https://www.opennode.co/blog/feed/
 	OpenZeppelin blog: https://blog.openzeppelin.com/feed/
 	Opium Team - Medium: https://medium.com/feed/opium-network
-	Optimism: https://optimism.mirror.xyz/feed/atom
 	Opyn - Medium: https://medium.com/feed/opyn
 	Orchid RSS feed: https://blog.orchid.com/rss.xml
 	Our Status: https://our.status.im/rss/
@@ -298,6 +302,7 @@
 	The Ethereum Name Service - Medium: https://medium.com/feed/the-ethereum-name-service
 	The Index Coop - Medium: https://medium.com/feed/indexcoop
 	The LAO on Medium: https://medium.com/feed/@thelaoofficial
+	The Optimism Collective: https://optimism.mirror.xyz/feed/atom
 	The Rook Blog: https://blog.rook.fi/rss/
 	The Sandbox - Medium: https://medium.com/feed/sandbox-game
 	Theta Network - Medium: https://medium.com/feed/theta-network
@@ -345,14 +350,15 @@
 	Hacker Noon: https://hackernoon.com/feed
 	Messari Crypto News Feed: https://messari.io/rss
 	TechCrunch - Bitcoin: https://techcrunch.com/tag/bitcoin/feed
-	TechFlow (Chinese): https://techflowpost.substack.com/feed
+	TechFlow (Chinese): https://techflowpost.mirror.xyz/feed/atom
 	Trustnodes: https://www.trustnodes.com/feed
 03. Newsletter
 	🔐Kurt Pan’s Crypto Weekly: https://www.getrevue.co/profile/kurtpan?format=rss
 	0xSoros (Chinese): https://0xsoros.substack.com/feed
+	a16z web3 weekly: https://a16zcrypto.substack.com/feed
 	AllCoreDevs Updates: https://tim.submirror.xyz/
 	Bitcoin Optech: https://bitcoinops.org/feed.xml
-	ChainBreaker: https://submirror.xyz/0xchainbreaker.eth
+	ChainBreaker (Chinese): https://submirror.xyz/0xchainbreaker.eth
 	Coin Metrics' State of the Network: https://coinmetrics.substack.com/feed
 	DeFi Weekly: https://defiweekly.substack.com/feed
 	DotLeap: https://dotleap.substack.com/feed
@@ -363,6 +369,7 @@
 	O’Reilly Radar: http://www.oreilly.com/radar/feed/index.xml
 	Orange Paper (Chinese): https://orangexyz.mirror.xyz/feed/atom
 	Proof of Work: https://proofofwork.news/feed
+	TechFlow (Chinese): https://techflowpost.substack.com/feed
 	The Defiant: https://thedefiant.substack.com/feed
 	Week in Ethereum News: https://weekinethereumnews.com/feed/
 04. GitHub Updates
@@ -491,6 +498,7 @@
 	Wasabi Wallet: https://github.com/zkSNACKs/WalletWasabi/releases.atom
 	Zap-desktop: https://github.com/LN-Zap/zap-desktop/releases.atom
 	ZCash: https://github.com/zcash/zcash/releases.atom
+	zebra (Zcash): https://github.com/ZcashFoundation/zebra/releases.atom
 	Zeus: https://github.com/ZeusLN/zeus/releases.atom
 	zkEVM-circuits: https://github.com/appliedzkp/zkevm-circuits/releases.atom
 	zkopru: https://github.com/zkopru-network/zkopru/releases.atom
@@ -501,8 +509,7 @@
 	a16z Crypto: https://a16z.com/category/blockchain-cryptocurrencies/feed/
 	AlfaBlok: https://alfablok.substack.com/feed
 	bitcoin-dev blog: https://bitcoin-dev.blog/feed.xml
-	BitMEX Blog: https://blog.bitmex.com/feed/
-	BitMEX Blog (Chinese): https://blog.bitmex.com/feed/?lang=zh_CN
+	BTC Study (Chinese): https://www.btcstudy.org/atom.xml
 	Chainalysis: https://blog.chainalysis.com/feed/
 	Colliderventures - Medium: https://medium.com/feed/colliderventures
 	Crypto Punks - Medium: https://medium.com/feed/crypto-punks
@@ -517,10 +524,10 @@
 	Guoyu (Chinese): http://guoyu.mirror.xyz/feed/atom
 	Konrad S. Graf: http://feeds.feedburner.com/Blog-KonradSGraf
 	Linda Xie: https://linda.mirror.xyz/feed/atom
+	Lyn Alden: https://www.lynalden.com/feed/
 	Multicoin Capital: https://multicoin.capital/rss.xml
 	NAKAMOTO: https://nakamoto.com/rss/
 	Newcomer: https://www.newcomer.co/feed
-	Not News: http://news.mirror.xyz/feed/atom
 	Outlier Ventures: https://outlierventures.io/feed/
 	palkeo: https://www.palkeo.com/blog/atom.xml
 	Pantera Capital on Medium: https://medium.com/feed/@PanteraCapital
@@ -528,6 +535,7 @@
 	Polynya on Medium: https://medium.com/feed/@polynya
 	Research | Outlier Ventures: https://outlierventures.io/research/feed/
 	samczsun: https://samczsun.com/rss/
+	Taipei Ethereum Meetup (Chinese): https://medium.com/feed/taipei-ethereum-meetup
 	The TIE Research: https://research.thetie.io/feed/
 	TradeBlock: http://feeds.feedburner.com/tradeblockfeed
 	Trail of Bits Blog: https://blog.trailofbits.com/feed/
