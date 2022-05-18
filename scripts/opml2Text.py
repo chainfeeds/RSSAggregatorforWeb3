@@ -1,6 +1,6 @@
 import xml.etree.ElementTree as ET
 
-# Using this python script to extract the Feed title and Feed URL from RSS.opml to pure text.
+# Using this python script to extract the Feed title and Feed URL from RAW.opml to pure text. Put the RAW.opml in the same directory.
 
 tree = ET.parse('RAW.opml')
 root = tree.getroot()
