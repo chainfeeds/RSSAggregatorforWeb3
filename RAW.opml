@@ -345,6 +345,8 @@
 		<outline text="ZKOPRU (EF)" title="ZKOPRU (EF)" description="" type="rss" version="RSS" htmlUrl="https://medium.com/privacy-scaling-explorations?source=rss----67efc7e2b2cd---4" xmlUrl="https://medium.com/feed/privacy-scaling-explorations"/>
 	</outline>
 	<outline text="02. Media/Aggregator/Curator" title="02. Media/Aggregator/Curator">
+		<outline text="db news aggregator" title="db news aggregator" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/tier10k/" xmlUrl="https://nitter.net/tier10k/rss"/>
+		<outline text="Bloomberg - business" title="Bloomberg business" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/business" xmlUrl="https://nitter.net/business/rss"/>
 		<outline text="BlockTempo (Chinese)" title="BlockTempo (Chinese)" description="" type="rss" version="RSS" htmlUrl="https://www.blocktempo.com/" xmlUrl="https://www.blocktempo.com/feed/"/>
 		<outline text="Blockworks" title="Blockworks" description="" type="rss" version="RSS" htmlUrl="https://blockworks.co/" xmlUrl="https://blockworks.co/feed/"/>
 		<outline text="ChainFeeds Selected (Chinese)" title="ChainFeeds Selected (Chinese)" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.chainfeeds.xyz/rss"/>
@@ -362,12 +364,15 @@
 		<outline text="Trustnodes" title="Trustnodes" description="" type="rss" version="RSS" htmlUrl="https://www.trustnodes.com/" xmlUrl="https://www.trustnodes.com/feed"/>
 	</outline>
 	<outline text="03. Newsletter" title="03. Newsletter">
+		<outline text="Athur Hayes - Bitmex blog" title="Athur Hayes - Bitmex blog" description="" type="rss" version="RSS" htmlUrl="https://blog.bitmex.com/author/arthur/" xmlUrl="https://blog.bitmex.com/author/arthur/feed/"/>
 		<outline text="🔐Kurt Pan’s Crypto Weekly" title="🔐Kurt Pan’s Crypto Weekly" description="" type="rss" version="RSS" htmlUrl="https://www.getrevue.co/profile/kurtpan" xmlUrl="https://www.getrevue.co/profile/kurtpan?format=rss"/>
 		<outline text="0xSoros (Chinese)" title="0xSoros (Chinese)" description="" type="rss" version="RSS" htmlUrl="https://0xsoros.substack.com/" xmlUrl="https://0xsoros.substack.com/feed"/>
 		<outline text="a16z web3 weekly" title="a16z web3 weekly" description="" type="rss" version="RSS" htmlUrl="https://a16zcrypto.substack.com/" xmlUrl="https://a16zcrypto.substack.com/feed"/>
 		<outline text="AllCoreDevs Updates" title="AllCoreDevs Updates" description="" type="rss" version="RSS" htmlUrl="https://tim.mirror.xyz/" xmlUrl="https://tim.submirror.xyz/"/>
 		<outline text="Bitcoin Optech" title="Bitcoin Optech" description="" type="rss" version="RSS" htmlUrl="https://bitcoinops.org/" xmlUrl="https://bitcoinops.org/feed.xml"/>
 		<outline text="ChainBreaker (Chinese)" title="ChainBreaker (Chinese)" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0xchainbreaker.eth/" xmlUrl="https://submirror.xyz/0xchainbreaker.eth"/>
+		<outline text="Cobie" title="Cobie's substack" description="" type="rss" version="RSS" htmlUrl="https://cobie.substack.com/" xmlUrl="https://cobie.substack.com/feed"/>
+		<outline text="Crypto Cred" title="Crypto Cred Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@cryptocreddy" xmlUrl="https://medium.com/feed/@cryptocreddy"/>
 		<outline text="Coin Metrics' State of the Network" title="Coin Metrics' State of the Network" description="" type="rss" version="RSS" htmlUrl="https://coinmetrics.substack.com/" xmlUrl="https://coinmetrics.substack.com/feed"/>
 		<outline text="DeFi Weekly" title="DeFi Weekly" description="" type="rss" version="RSS" htmlUrl="https://kermankohli.substack.com/" xmlUrl="https://defiweekly.substack.com/feed"/>
 		<outline text="DotLeap" title="DotLeap" description="" type="rss" version="RSS" htmlUrl="https://newsletter.dotleap.com/" xmlUrl="https://dotleap.substack.com/feed"/>
@@ -375,6 +380,7 @@
 		<outline text="Grin Newsletter" title="Grin Newsletter" description="" type="rss" version="RSS" htmlUrl="https://grinnews.substack.com/" xmlUrl="https://grinnews.substack.com/feed"/>
 		<outline text="mcdao" title="mcdao" description="" type="rss" version="RSS" htmlUrl="https://mcdao.mirror.xyz/" xmlUrl="https://mcdao.mirror.xyz/feed/atom"/>
 		<outline text="MinerUpdate" title="MinerUpdate" description="" type="rss" version="RSS" htmlUrl="https://minerupdate.substack.com/" xmlUrl="https://minerupdate.substack.com/feed"/>
+		<outline text="FTX Blog" title="FTX Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.ftx.com/blog/" xmlUrl="https://blog.ftx.com/blog/index.xml"/>
 		<outline text="O’Reilly Radar" title="O’Reilly Radar" description="" type="rss" version="RSS" htmlUrl="https://www.oreilly.com/radar" xmlUrl="http://www.oreilly.com/radar/feed/index.xml"/>
 		<outline text="Orange Paper (Chinese)" title="Orange Paper (Chinese)" description="" type="rss" version="RSS" htmlUrl="https://orangexyz.mirror.xyz/" xmlUrl="https://orangexyz.mirror.xyz/feed/atom"/>
 		<outline text="Proof of Work" title="Proof of Work" description="" type="rss" version="RSS" htmlUrl="https://proofofwork.news/" xmlUrl="https://proofofwork.news/feed"/>
