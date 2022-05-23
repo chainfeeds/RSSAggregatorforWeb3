@@ -55,13 +55,14 @@ You can find the full list [here](Full_List). Breakdown:
 - [Inoreader](https://www.inoreader.com)
 - [Feedbin](https://feedbin.com)
 - [Feedly](https://feedly.com)
-- [Feeder](https://feeder.co) (Free!)
+- [Feeder](https://feeder.co)
 
-## Recommendation of Apps
+## Recommendation of App/Client
 - [NetNewsWire](https://netnewswire.com) (Free!)
+- [Thunderbird](https://www.thunderbird.net) (Free!)
+- [An Otter RSS](https://anotterrss.com) (Free!)
 - [Reeder](https://reederapp.com)
 - [Big News](https://bignews.app)
-- [An Otter RSS](https://anotterrss.com) (Free!)
 - [News Explorer](https://betamagic.nl/products/newsexplorer.html)
 
 ## More Tutorials
