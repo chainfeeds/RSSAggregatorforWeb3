@@ -14,7 +14,7 @@ RSS is a standard for contents feeds. Any website supporting this standard can b
 
 ## How to use 🥩 RAW? Just 4 steps.
 1. [Download](RAW.opml) the the latest RAW.opml file from this repo.
-2. Choose your favorite RSS service or apps. (I strongly recommend [NetNewsWire](https://netnewswire.com) as a frest start because it's totally free and [open sourced](https://github.com/Ranchero-Software/NetNewsWire).)
+2. Choose your favorite RSS service or apps. (I strongly recommend [NetNewsWire](https://netnewswire.com) as a fresh start because it's totally free and [open sourced](https://github.com/Ranchero-Software/NetNewsWire).)
 3. Import this OPML to your apps/services.
 4. Syncing and Done!
 
