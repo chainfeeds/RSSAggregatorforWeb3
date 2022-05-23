@@ -63,3 +63,15 @@ You can find the full list [here](Full_List). Breakdown:
 - [Big News](https://bignews.app)
 - [An Otter RSS](https://anotterrss.com) (Free!)
 - [News Explorer](https://betamagic.nl/products/newsexplorer.html)
+
+## More Tutorials
+- by [@lufeieth](https://twitter.com/lufeieth/status/1526966204723699712): https://cryptotimemachine.notion.site/Chainfeeds-RAW-opml-2022-5-18-ab0889dda6ca4d73abbefe98e9f51f49
+- by [@zjavax](https://twitter.com/zjavax/status/1528553122703872000): https://www.youtube.com/watch?v=dabK4vLpQ9k
+- by [@zlexdl](https://twitter.com/zlexdl/status/1528585260228694019): https://mirror.xyz/zlexdl.eth/7vAc_B_I8WdJ6Eiyp4nWgGX2lMtPKCifUI3wPEM0rTM
+
+## Based on 🥩 RAW
+- All-in-one Feed by [@RoCry](https://twitter.com/RoCry/status/1528045325969424384): https://github.com/roallop/feedcooker/releases/tag/latest
+- Telegram Channel by [@Tweet_TgBot](https://twitter.com/Tweet_TgBot/status/1528411501127954432): [t.me/web3_rss](t.me/web3_rss)
+
+## Other Web3 related Feeds:
+- 900+ Mirror Author by [@zlexdl](https://twitter.com/zlexdl/status/1526945751573536771): https://github.com/zlexdl/mirror
