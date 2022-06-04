@@ -62,6 +62,7 @@ You can find the full list [here](Full_List). Breakdown:
 - [Thunderbird](https://www.thunderbird.net) (Free!)
 - [An Otter RSS](https://anotterrss.com) (Free!)
 - [Fluent Reader](https://hyliu.me/fluent-reader/) (Free!)
+- [Raven Reader](https://ravenreader.app/) (Free!)
 - [Reeder](https://reederapp.com)
 - [Big News](https://bignews.app)
 - [News Explorer](https://betamagic.nl/products/newsexplorer.html)
