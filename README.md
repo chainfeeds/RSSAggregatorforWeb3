@@ -77,3 +77,4 @@ You can find the full list [here](Full_List). Breakdown:
 
 ## Other Web3 related Feeds:
 - 900+ Mirror Author by [@zlexdl](https://twitter.com/zlexdl/status/1526945751573536771): https://github.com/zlexdl/mirror
+- PrimitivesFeed：https://github.com/PrimitivesLane/PrimitivesFeed
