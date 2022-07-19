@@ -13,7 +13,7 @@ RSS is a standard for contents feeds. Any website supporting this standard can b
 ![](./img/whatRSS.png)
 
 ## How to use 🥩 RAW? Just 4 steps.
-1. [Download](RAW.opml) the the latest RAW.opml file from this repo.
+1. [Download](https://github.com/chainfeeds/RSSAggregatorforWeb3/releases/latest/download/RAW.opml) the the latest RAW.opml file from this repo.
 2. Choose your favorite RSS service or apps. (I strongly recommend [NetNewsWire](https://netnewswire.com) as a fresh start because it's totally free and [open sourced](https://github.com/Ranchero-Software/NetNewsWire).)
 3. Import this OPML to your apps/services.
 4. Syncing and Done!
@@ -61,6 +61,9 @@ You can find the full list [here](Full_List). Breakdown:
 - [NetNewsWire](https://netnewswire.com) (Free!)
 - [Thunderbird](https://www.thunderbird.net) (Free!)
 - [An Otter RSS](https://anotterrss.com) (Free!)
+- [Fluent Reader](https://hyliu.me/fluent-reader/) (Free!)
+- [Feedbro](https://nodetics.com/feedbro/) (Free!)
+- [Raven Reader](https://ravenreader.app/) (Free!)
 - [Reeder](https://reederapp.com)
 - [Big News](https://bignews.app)
 - [News Explorer](https://betamagic.nl/products/newsexplorer.html)
@@ -76,3 +79,4 @@ You can find the full list [here](Full_List). Breakdown:
 
 ## Other Web3 related Feeds:
 - 900+ Mirror Author by [@zlexdl](https://twitter.com/zlexdl/status/1526945751573536771): https://github.com/zlexdl/mirror
+- PrimitivesFeed：https://github.com/PrimitivesLane/PrimitivesFeed
