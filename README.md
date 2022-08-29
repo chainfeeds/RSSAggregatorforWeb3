@@ -1,6 +1,6 @@
 # RSS Aggregator for Web3 (or 🥩 RAW for short)
 
-Bootstrapping your personal Web3 info hub from more than 500 RSS Feeds.
+Bootstrapping your personal Web3 info hub from more than 600 RSS Feeds.
 
 ![](./img/whyRSS.png)
 
