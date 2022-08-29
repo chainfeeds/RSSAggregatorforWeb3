@@ -59,6 +59,7 @@ You can find the full list [here](Full_List). Breakdown:
 
 ## Recommendation of App/Client
 - [NetNewsWire](https://netnewswire.com) (Free!)
+- [Planet](https://www.planetable.xyz) (Free!)
 - [Thunderbird](https://www.thunderbird.net) (Free!)
 - [An Otter RSS](https://anotterrss.com) (Free!)
 - [Fluent Reader](https://hyliu.me/fluent-reader/) (Free!)
