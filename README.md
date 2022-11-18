@@ -76,7 +76,7 @@ You can find the full list [here](Full_List). Breakdown:
 
 ## Based on 🥩 RAW
 - All-in-one Feed by [@RoCry](https://twitter.com/RoCry/status/1528045325969424384): https://github.com/roallop/feedcooker/releases/tag/latest
-- Telegram Channel by [@Tweet_TgBot](https://twitter.com/Tweet_TgBot/status/1528411501127954432): [t.me/web3_rss](t.me/web3_rss)
+- Telegram Channel by [@Tweet_TgBot](https://twitter.com/Tweet_TgBot/status/1528411501127954432): [t.me/web3_rss](https://t.me/web3_rss)
 
 ## Other Web3 related Feeds:
 - 900+ Mirror Author by [@zlexdl](https://twitter.com/zlexdl/status/1526945751573536771): https://github.com/zlexdl/mirror
