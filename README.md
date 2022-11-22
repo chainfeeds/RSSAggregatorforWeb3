@@ -26,7 +26,9 @@ For example,
 
 - GitHub: Appending ".atom" to most links, e.g. https://github.com/bitcoin/bitcoin/releases.atom
 - Substack: Appending "/feed" to link, e.g. https://0xsoros.substack.com/feed
-- Mirror: Appending "/feed/atom" to link, e.g. https://ens.mirror.xyz/feed/atom
+- Mirror:
+    - for https://ens.mirror.xyz change to https://ens.submirror.xyz
+    - for https://mirror.xyz/fundamentalabs.eth change to https://submirror.xyz/fundamentalabs.eth
 - Ghost: Appending "/rss" to link, e.g. https://fuel-labs.ghost.io/rss/
 - Medium: Adding "/feed" after medium.com, e.g. https://medium.com/feed/anomanetwork
 
